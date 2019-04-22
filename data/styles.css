@@ -7,20 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.box_2 {
-}
-.box_3 {
-}
-.image {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -59,44 +45,17 @@
 ._文本段落 {
   text-align:left;
 }
+.box_1 {
+}
 .text_field {
   color:#000000;
   text-align:left;
 }
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
-}
-.checkbox {
-  text-align:left;
-}
-._流程形状 {
-}
-.html_button {
-  text-align:center;
-}
-.tree_node {
-  text-align:left;
+.primary_button {
+  color:#FFFFFF;
 }
 .table_cell {
 }
-.menu_item {
-}
-.sticky_2 {
+.checkbox {
   text-align:left;
-}
-.marker {
-  color:#FFFFFF;
-}
-.icon {
-}
-.flow_shape {
 }
